@@ -5,4 +5,4 @@
 - 👀 Broadly interested in Multimodal Learning, 3D Perception & Composed Image Retrieval
 - 💼 Prev Research Intern @ Alibaba DAMO Academy (Tongyi Lab)
 - 📫 Reach me at: qianzhipeng@stu.xmu.edu.cn
-- 🌱 Check out some of my recent publications and implementations below :)
+- 🌱 Check out some of my recent publications and implementations below
