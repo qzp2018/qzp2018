@@ -6,5 +6,3 @@
 - 📝 First-author papers at AAAI 2024, ECCV 2024, EMNLP 2024 & ACL 2026
 - 💼 Prev Research Intern @ Alibaba DAMO Academy (Tongyi Lab)
 - 📫 Reach me at: qianzhipeng@stu.xmu.edu.cn
-
-![qzp2018's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzp2018&show_icons=true&theme=vue-dark)
